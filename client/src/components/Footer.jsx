@@ -13,6 +13,10 @@ function Footer() {
   AI-powered interview preparation platform designed to improve
           communication skills, technical depth and professional confidence.
         </p>
+        <p className='text-gray-400 text-xs mt-4'>
+          Made with ❤️ by <span className='font-semibold text-black'>Kumar Utsav</span>
+        </p>
+
 
 
       </div>
